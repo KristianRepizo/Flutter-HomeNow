@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83ca0beb-f19f-4c77-b8e8-3603de8a6053" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jVxzNtopiGqlgx5GCaxrmCs0vs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83ca0beb-f19f-4c77-b8e8-3603de8a6053" name="Default Changelist" comment="" />
+      <created>1603903321855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603903321855</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604075463996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="625" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604075463996" />
+    <state x="666" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604126671391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="666" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1604126671391" />
+    <state x="688" y="131" key="FileChooserDialogImpl" timestamp="1604614522918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="688" y="131" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604614522918" />
+    <state width="817" height="119" key="GridCell.Tab.0.bottom" timestamp="1604167364108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="817" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604167364108" />
+    <state width="817" height="119" key="GridCell.Tab.0.center" timestamp="1604167364108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="817" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604167364108" />
+    <state width="817" height="119" key="GridCell.Tab.0.left" timestamp="1604167364108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="817" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604167364108" />
+    <state width="817" height="119" key="GridCell.Tab.0.right" timestamp="1604167364108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="817" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604167364108" />
+    <state x="324" y="0" key="SettingsEditor" timestamp="1604614510376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604614510376" />
+    <state x="595" y="117" width="679" height="527" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604153939063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="595" y="117" width="679" height="527" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1604153939063" />
+    <state x="604" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1604613510917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="604" y="213" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604613510917" />
+    <state x="553" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604126694665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1604126694665" />
+    <state x="559" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604614519103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="559" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604614519103" />
+  </component>
+</project>
